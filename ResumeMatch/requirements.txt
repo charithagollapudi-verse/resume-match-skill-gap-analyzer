@@ -1,0 +1,8 @@
+# No external packages are required!
+# This project is built completely on top of Python's standard library.
+# Simply run the application using your standard python build:
+#
+# python main.py
+#
+# If you are on Linux and get a missing Tkinter error:
+# sudo apt-get install python3-tk

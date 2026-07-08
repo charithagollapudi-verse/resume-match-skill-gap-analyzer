@@ -1,0 +1,19 @@
+POSITION: Full Stack Software Engineer
+LOCATION: Remote / Seattle, WA
+
+JOB SUMMARY:
+We are looking for a skilled Full Stack Software Engineer to join our growing product team. In this role, you will design and implement web applications, optimize data storage solutions, and configure CI/CD deployment pipelines. The ideal candidate has strong hands-on experience with Python and TypeScript, thrives in an agile team, and is committed to continuous learning.
+
+REQUIREMENTS & RESPONSIBILITIES:
+- Build modular web applications using React and NodeJS.
+- Develop scalable backend APIs using Python (FastAPI or Django) and PostgreSQL databases.
+- Containerize application workloads using Docker and deploy to AWS or GCP cloud environments.
+- Participate in agile practices like weekly Scrum, Kanban, and code reviews in GitHub.
+- Assist in setting up CI/CD workflows for automated testing and deployment.
+- Possess strong problem solving, teamwork, and communication skills.
+
+QUALIFICATIONS (Preferred):
+- Experience with Tailwind CSS and NextJS is a plus.
+- Experience with Kubernetes, Jenkins, or Terraform is highly desirable.
+- Proficiency in SQL query design and database optimization.
+- Project management experience or background in Agile/Scrum methodologies.

@@ -1,0 +1,28 @@
+JOHN DOE
+john.doe@email.com | (123) 456-7890 | Seattle, WA | github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Highly motivated Software Developer with 3+ years of experience building modern web applications. Skilled in Python, TypeScript, and React, with a strong background in SQL database design and Cloud infrastructure. Excellent team player with a passion for problem solving and leadership.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, TypeScript, HTML, CSS, SQL
+- Web Development: React, Django, NodeJS, Tailwind
+- Databases: PostgreSQL, SQLite, MySQL
+- DevOps & Cloud: Git, GitHub, Docker, AWS (S3, EC2)
+- Tools: Jira, Figma, Slack, Postman
+- Soft Skills: Teamwork, Problem Solving, Communication, Adaptability
+
+EXPERIENCE
+Software Engineer | Tech Solutions Inc. | 2024 - Present
+- Developed responsive web interfaces using React and Tailwind CSS, increasing user engagement by 25%.
+- Built high-performance backend API endpoints using Python and Django.
+- Managed application deployment and containerization with Docker and Git.
+- Collaborated with product designers using Figma and tracked development progress in Jira.
+
+Junior Developer | WebCrafters | 2023 - 2024
+- Assisted in building server-side applications using NodeJS and Express.
+- Optimized database queries in PostgreSQL, reducing load times by 15%.
+- Maintained code repositories using GitHub and participated in weekly Scrum meetings.
+
+EDUCATION
+B.S. in Computer Science | University of Washington | Graduated 2023
