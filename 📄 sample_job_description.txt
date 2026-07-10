@@ -1,0 +1,72 @@
+============================================================
+               SOFTWARE DEVELOPER INTERN
+============================================================
+
+Company
+--------
+
+XXXXXXXXXX Technologies Pvt. Ltd.
+
+Location
+--------
+
+XXXXXXXXXX
+
+Employment Type
+---------------
+
+Internship
+
+------------------------------------------------------------
+JOB SUMMARY
+------------------------------------------------------------
+
+We are looking for a motivated Software Developer Intern
+with strong Python programming skills and excellent
+problem-solving abilities.
+
+------------------------------------------------------------
+REQUIRED SKILLS
+------------------------------------------------------------
+
+✔ Python
+✔ SQL
+✔ Git
+✔ GitHub
+✔ HTML
+✔ CSS
+✔ Problem Solving
+✔ Teamwork
+✔ Communication
+✔ VS Code
+
+------------------------------------------------------------
+GOOD TO HAVE
+------------------------------------------------------------
+
+• Tkinter
+• File Handling
+• Regular Expressions
+• Object Oriented Programming
+
+------------------------------------------------------------
+RESPONSIBILITIES
+------------------------------------------------------------
+
+• Develop Python applications
+• Debug software modules
+• Maintain documentation
+• Work with the development team
+• Participate in code reviews
+
+------------------------------------------------------------
+PREFERRED QUALIFICATIONS
+------------------------------------------------------------
+
+Bachelor's Degree in Computer Science
+Knowledge of Python projects
+Good analytical skills
+
+============================================================
+Apply Now
+============================================================
