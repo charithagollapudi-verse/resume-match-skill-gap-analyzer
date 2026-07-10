@@ -1,0 +1,77 @@
+============================================================
+                    PROFESSIONAL RESUME
+============================================================
+
+Name        : XXXXXXXXXX
+Email       : xxxxxxxxxx@email.com
+Phone       : +91 XXXXXXXXXX
+Location    : XXXXXXXXXX
+
+------------------------------------------------------------
+CAREER OBJECTIVE
+------------------------------------------------------------
+
+Passionate Computer Science student with strong problem-solving
+skills and practical experience in Python development. Seeking
+internship opportunities to build impactful software solutions
+while continuously learning modern technologies.
+
+------------------------------------------------------------
+EDUCATION
+------------------------------------------------------------
+
+Bachelor of Technology
+Computer Science Engineering
+
+CGPA : XX.XX
+
+------------------------------------------------------------
+TECHNICAL SKILLS
+------------------------------------------------------------
+
+✔ Python
+✔ C Programming
+✔ SQL
+✔ Git & GitHub
+✔ HTML
+✔ CSS
+✔ VS Code
+✔ Tkinter
+
+------------------------------------------------------------
+PROJECTS
+------------------------------------------------------------
+
+• Resume Match — Skill Gap Analyzer
+• Career Genome AI
+• Snake Arena (Python Game)
+
+------------------------------------------------------------
+SOFT SKILLS
+------------------------------------------------------------
+
+✔ Communication
+✔ Teamwork
+✔ Leadership
+✔ Critical Thinking
+✔ Problem Solving
+✔ Adaptability
+
+------------------------------------------------------------
+CERTIFICATIONS
+------------------------------------------------------------
+
+• Python Programming
+• Data Analysis with Python
+• Statistics for Data Analysis
+
+------------------------------------------------------------
+LANGUAGES
+------------------------------------------------------------
+
+English
+XXXXXXXXXX
+
+============================================================
+End of Resume
+============================================================
